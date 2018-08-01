@@ -1,0 +1,163 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    /*background: url(back.jpg)*/
+;}
+
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+    color: 	#26252b;
+    text-align: center;
+}
+
+h2{
+    color: #ff545e;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+h3{
+    color: #ff7b7b;
+    font-family: monospace;
+}
+
+#PP{
+    background: #ecf0f7;
+    float: inherit;
+}
+
+.cp{
+    background: transparent;
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+
+.in{
+    background: transparent;
+    width: 40%;
+    height: 600px;
+    float: left;
+    margin-left: 50px;
+}
+
+.pc{
+    background: transparent;
+    width: 50%;
+    height: 600px;
+    float: right;
+    padding-top: 20px;
+    
+}
+
+
+.opert{
+    margin-top: 25px;
+}
+
+.btnLim{
+    width: 120px;
+    height: 60px;
+    background: #589ea5;
+    font-family: fantasy;
+    color: #26252b;
+}
+
+.btnDib{
+    width: 170px;
+    height: 60px;
+    background: #6ec2b1;
+    font-family: fantasy;
+    color: #26252b;
+
+}
+
+
+#tpUno{
+    background: #71717f;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    border-bottom-color: aquamarine;
+    border: 0,0,0,15;
+    color: #95e3bb;
+}
+
+#tpDos{
+    background: #71717f;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    border-bottom-color: aquamarine;
+    border: 0,0,0,15;
+    color: #95e3bb;
+}
+
+#tpTres{
+    background: #71717f;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    border-bottom-color: aquamarine;
+    border: 0,0,0,15;
+    color: #95e3bb;
+}
+
+.circuloUno {
+     width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #3c425e;
+    margin-top: 15px;
+    text-align: center;
+    color: #fff;
+    display: inline-block;
+}
+
+.circuloDos {
+     width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #78763d;
+    margin-top: 15px;
+    text-align: center;
+    color: #fff;
+    display: inline-block;
+
+}
+
+.circuloTres {
+     width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #633636;
+    margin-top: 15px;
+    text-align: center;
+    color: #fff;
+    display: inline-block;
+
+}
+
+.bloque{
+    margin-left: 100px;
+}
+
+
+/*https://cybmeta.com/formas-basicas-con-css-triangulos-circulos-trapecios-rectangulos-cuadrados*/
+
+
+
+
+
+
+
+
+
+
